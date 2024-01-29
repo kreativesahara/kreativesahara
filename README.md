@@ -1,10 +1,9 @@
 👋 Hi,
   
--I’m @kreativesahara
--👀 I’m interested in Nodejs, UI/UX Design, JavasScript, React, Laravel
--🌱 I’m currently build and integrating apis
--💞️ I’m looking to collaborate on freelance jobs
+I’m @kreativesahara👀, interested in Nodejs, UI/UX Design, JavasScript, React, Laravel🌱, currently build and integrating apis
+💞️ looking to collaborate on projects.
 -📫 How to reach me mwongera@shanfixthosting.com
+
 -😄 Pronouns: I am
   
 - These fun facts showcase the dynamic and collaborative nature of the relationship between digital marketing and software development.
