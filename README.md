@@ -1,15 +1,14 @@
-- 👋 Hi,
+👋 Hi,
   
-
-- I’m @kreativesahara
-- 👀 I’m interested in Nodejs, UI/UX Design, JavasScript, React, Laravel
-- 🌱 I’m currently build and integrating apis
-- 💞️ I’m looking to collaborate on freelance jobs
-- 📫 How to reach me mwongera@shanfixthosting.com
-- 😄 Pronouns: I
+I’m @kreativesahara
+👀 I’m interested in Nodejs, UI/UX Design, JavasScript, React, Laravel
+🌱 I’m currently build and integrating apis
+💞️ I’m looking to collaborate on freelance jobs
+📫 How to reach me mwongera@shanfixthosting.com
+😄 Pronouns: I
   
 - These fun facts showcase the dynamic and collaborative nature of the relationship between digital marketing and software development.
-- It's a realm where creativity meets code, and the result is a harmonious blend of innovation and engagement.
+ It's a realm where creativity meets code, and the result is a harmonious blend of innovation and engagement.
   
 -- Emoji Marketing Magic:
    - Fun Fact: Emojis in marketing messages can increase engagement. 🚀
