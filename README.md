@@ -1,10 +1,11 @@
-## 👋 Hi,
+## 👋 Hi, I'm Kiogora Mwongera
   
 I’m @kreativesahara👀, interested in Nodejs, UI/UX Design, JavasScript, React, Laravel🌱, currently build and integrating apis
 💞️ looking to collaborate on projects.
--📫 How to reach me mwongera@shanfixthosting.com || mwongeraligo@gmail.com
 
-😄 Pronouns: I am
+-📫 How to reach me: mwongeraligo@gmail.com
+
+# 😄 Pronouns: I am
   
 These fun facts showcase the dynamic and collaborative nature of the relationship between digital marketing and software development.
 It's a realm where creativity meets code, and the result is a harmonious blend of innovation and engagement.
