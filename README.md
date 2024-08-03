@@ -3,13 +3,13 @@
 I'm Kiogora Mwongera, building @kreativesahara👀 a Digital testing and Product Design solutions. I am a software Developer and UI/UX Design, with soo much interest in the paradigm of Object Oriented Programmming
 JavasScript, Large Language Models🌱, currently build and integrating Application Programming Interfaces, Object Relational Mapping, web animates with ThreeJS, rigging in blender and enjoy reading on Databases.
 
-I would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
+🤝 I would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
 
-# 💞️ Looking to collaborate on projects.
+# 👨‍👦‍👦 Looking to collaborate on projects.
 📫 How to reach me: mwongeraligo@gmail.com
 
-Buymecoffee!!
-https://kiogora.hostanex.com
+🍵 Buy me coffee 😊 
+👾 https://kiogora.hostanex.com
 
 # 😄 would love to go for rock climbing after a code product launch.
   
