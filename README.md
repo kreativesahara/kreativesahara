@@ -8,7 +8,8 @@ JavasScript, Large Language Models🌱, currently build and integrating Applicat
 # 👨‍👦‍👦 Looking to collaborate on projects.
 📫 How to reach me: mwongeraligo@gmail.com
 
-🍵 Buy me coffee 😊 
+🍵 Buy me coffee.
+
 👾 https://kiogora.hostanex.com
 
 # 😄 would love to go for rock climbing after a code product launch.
