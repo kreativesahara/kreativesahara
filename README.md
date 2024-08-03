@@ -5,12 +5,10 @@ JavasScript, Large Language Models🌱, currently build and integrating Applicat
 
 I would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
 
-# 💞️ looking to collaborate on projects.
+# 💞️ Looking to collaborate on projects.
+📫 How to reach me: mwongeraligo@gmail.com
 
-
--📫 How to reach me: mwongeraligo@gmail.com
-
-# 😄 i would love to go for rock climbing after a code product launch.
+#😄 i would love to go for rock climbing after a code product launch.
   
 These fun facts show the nature of the relationships between digital marketing and software development.
 It's where creativity meets coding, and the result is an amazing blend of innovation and engagement.
