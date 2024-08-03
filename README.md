@@ -28,7 +28,8 @@ It's where creativity meets coding, and the result is an amazing blend of innova
    - Software developers create tools and platforms for A/B testing, allowing marketers to experiment with different variations
      of content, layouts, and call-to-action buttons. It's dumbfolding collaboration where the scientific curiosity of developers meets the
      creative experimentation of marketers.
-     
+     [cat 2.pdf](https://github.com/user-attachments/files/16479121/cat.2.pdf)
+
 # Chatbots: Marketing's Digital Companions:
    - Fun Fact: Chatbots are like 24/7 digital marketing agent(assistant). 🤖
    - Software developers design and implement chatbots, while digital marketers use them for personalized customer interactions, lead
@@ -45,7 +46,7 @@ It's where creativity meets coding, and the result is an amazing blend of innova
    - Agile methodology, known for its iterative(continuous update) and flexible approach, has found its way into digital marketing. Both developer
      and marketers adapt Agile principles to manage projects more efficiently. It's a shared language that fosters collaboration between the two domains.
 
-# kiogoraMwongera
+                  # kiogoraMwongera
 
 <!---
 kreativesahara/kreativesahara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
