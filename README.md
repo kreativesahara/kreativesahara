@@ -10,7 +10,7 @@ JavasScript, Large Language Models🌱, currently build and integrating Applicat
 
 🍵 Buy me coffee.
 
-👾 https://kiogora.hostanex.com
+👾 MY Portfolio - [https://kiogora.hostanex.com]
 
 # 😄 would love to go for rock climbing after a code product launch.
   
