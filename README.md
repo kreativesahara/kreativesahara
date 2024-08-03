@@ -3,8 +3,9 @@
 I'm Kiogora Mwongera, building @kreativesahara👀 a Digital testing and Product Design solutions. I am a software Developer and UI/UX Design, with soo much interest in the paradigm of Object Oriented Programmming
 JavasScript, Large Language Models🌱, currently build and integrating Application Programming Interfaces, Object Relational Mapping, web animates with ThreeJS, rigging in blender and enjoy reading on Databases.
 
-i would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.  
-💞️ looking to collaborate on projects.
+i would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
+
+# 💞️ looking to collaborate on projects.
 
 -i would love to go for rock climbing after a code product launch.
 
@@ -43,9 +44,9 @@ It's where creativity meets coding, and the result is an amazing blend of innova
    - Agile methodology, known for its iterative(continuous update) and flexible approach, has found its way into digital marketing. Both developer
      and marketers adapt Agile principles to manage projects more efficiently. It's a shared language that fosters collaboration between the two domains.
 
-     #kiogoraMwongera
-     buymecoffee!!
-     https://kiogora.hostanex.com
+# kiogoraMwongera
+Buymecoffee!!
+https://kiogora.hostanex.com
 <!---
 kreativesahara/kreativesahara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
