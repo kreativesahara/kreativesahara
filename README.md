@@ -8,6 +8,9 @@ I would totally agree to work by building a project at my free time, the love of
 # 💞️ Looking to collaborate on projects.
 📫 How to reach me: mwongeraligo@gmail.com
 
+Buymecoffee!!
+https://kiogora.hostanex.com
+
 # 😄 would love to go for rock climbing after a code product launch.
   
 These fun facts show the nature of the relationships between digital marketing and software development.
@@ -42,8 +45,7 @@ It's where creativity meets coding, and the result is an amazing blend of innova
      and marketers adapt Agile principles to manage projects more efficiently. It's a shared language that fosters collaboration between the two domains.
 
 # kiogoraMwongera
-Buymecoffee!!
-https://kiogora.hostanex.com
+
 <!---
 kreativesahara/kreativesahara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
