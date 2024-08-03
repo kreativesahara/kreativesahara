@@ -3,15 +3,14 @@
 I'm Kiogora Mwongera, building @kreativesahara👀 a Digital testing and Product Design solutions. I am a software Developer and UI/UX Design, with soo much interest in the paradigm of Object Oriented Programmming
 JavasScript, Large Language Models🌱, currently build and integrating Application Programming Interfaces, Object Relational Mapping, web animates with ThreeJS, rigging in blender and enjoy reading on Databases.
 
-i would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
+I would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
 
 # 💞️ looking to collaborate on projects.
 
--i would love to go for rock climbing after a code product launch.
 
 -📫 How to reach me: mwongeraligo@gmail.com
 
-# 😄 Pronouns: I am
+# 😄 i would love to go for rock climbing after a code product launch.
   
 These fun facts show the nature of the relationships between digital marketing and software development.
 It's where creativity meets coding, and the result is an amazing blend of innovation and engagement.
