@@ -1,7 +1,12 @@
 ## 👋 Hi, I'm Kiogora Mwongera
   
-I’m @kreativesahara👀, interested in Nodejs, UI/UX Design, JavasScript, React, Laravel🌱, currently build and integrating apis
+Building @kreativesahara👀 a Digital product and Design testing fintech. I am a software Developer and UI/UX Design, with soo much interest in object oriented programmming
+JavasScript, Large Language Models🌱, currently build and integrating Application Programming Interface, Object Ratinal Maps, ThreeJS, Blender rigging.
+
+i would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.  
 💞️ looking to collaborate on projects.
+
+-i would love to go for rock climbing after a code product launch.
 
 -📫 How to reach me: mwongeraligo@gmail.com
 
@@ -12,18 +17,18 @@ It's where creativity meets coding, and the result is an amazing blend of innova
   
 # Emoji Marketing Magic:
    - Fun Fact: Emojis in marketing messages can increase engagement. 🚀
-   - Software developers often implement emoji support in applications, and digital marketers leverage emojis in email subject lines
-     and social media posts to create a more engaging and friendly communication style. Emojis can enhance user interaction and convey
+   - Software developers use emojis in applications, digital marketers leverage emojis in email subject lines while social media
+     posts to create a friendly communication and engagment. Emojis can enhance user interaction and convey
      emotions effectively.
      
 # Testing Adventures:
-   - Fun Fact: A/B testing is like a digital marketing science experiment. 🧪
+   - Fun Fact: A/B testing is like a digital marketing science experiments. 🧪
    - Software developers create tools and platforms for A/B testing, allowing marketers to experiment with different variations
-     of content, layouts, and call-to-action buttons. It's a dynamic collaboration where the scientific curiosity of developers meets the
+     of content, layouts, and call-to-action buttons. It's dumbfolding collaboration where the scientific curiosity of developers meets the
      creative experimentation of marketers.
      
 # Chatbots: Marketing's Digital Companions:
-   - Fun Fact: Chatbots are like 24/7 digital marketing assistants. 🤖
+   - Fun Fact: Chatbots are like 24/7 digital marketing agent(assistant). 🤖
    - Software developers design and implement chatbots, while digital marketers use them for personalized customer interactions, lead
      generation, and even sales. It's a tech-savvy way to enhance customer engagement and gather valuable insights.
      
@@ -33,10 +38,14 @@ It's where creativity meets coding, and the result is an amazing blend of innova
      ranks high. It's a collaborative effort where developers optimize code for search engines, and marketers craft content that resonates
      with both algorithms and human audiences.
 
-# Applying Agile Methodology to Campaigns:
+# Applying Methodologies to Campaigns: Agile
    - Fun Fact: Agile isn't just for software development; marketers use it too! 🔄
-   - Agile methodology, known for its iterative and flexible approach, has found its way into digital marketing. Both developer
+   - Agile methodology, known for its iterative(continuous update) and flexible approach, has found its way into digital marketing. Both developer
      and marketers adapt Agile principles to manage projects more efficiently. It's a shared language that fosters collaboration between the two domains.
+
+     #kiogoraMwongera
+     buymecoffee!!
+     https://kiogora.hostanex.com
 <!---
 kreativesahara/kreativesahara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
