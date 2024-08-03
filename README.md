@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Kiogora Mwongera
-  
-Building @kreativesahara👀 a Digital product and Design testing fintech. I am a software Developer and UI/UX Design, with soo much interest in object oriented programmming
-JavasScript, Large Language Models🌱, currently build and integrating Application Programming Interface, Object Ratinal Maps, ThreeJS, Blender rigging.
+## 👋 Hi, 
+
+I'm Kiogora Mwongera, building @kreativesahara👀 a Digital testing and Product Design solutions. I am a software Developer and UI/UX Design, with soo much interest in the paradigm of Object Oriented Programmming
+JavasScript, Large Language Models🌱, currently build and integrating Application Programming Interfaces, Object Relational Mapping, web animates with ThreeJS, rigging in blender and enjoy reading on Databases.
 
 i would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.  
 💞️ looking to collaborate on projects.
