@@ -6,7 +6,7 @@ JavasScript, Large Language Models🌱, currently build and integrating Applicat
 🤝 I would totally agree to work by building a project at my free time, the love of getting into creative, time bound activities.
 
 # 👨‍👦‍👦 Looking to collaborate on projects.
-📫 How to reach me: mwongeraligo@gmail.com
+📫 How to reach me - [mwongeraligo@gmail.com]
 
 🍵 Buy me coffee.
 
